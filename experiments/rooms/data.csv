@@ -1,4 +1,4 @@
-Timestamp, SIM, RSSI, Network, Distance
+Timestamp,SIM,RSSI,Network,Distance
 27 Jul 11:44:05, SIM1, -69 dBm, NR NSA 5G, 1.0
 27 Jul 11:44:07, SIM1, -69 dBm, NR NSA 5G, 1.0
 27 Jul 11:44:09, SIM1, -69 dBm, NR NSA 5G, 1.0
